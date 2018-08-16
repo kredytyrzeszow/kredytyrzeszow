@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-16_2142",
+    "name": "kredyty rzeszow",
     "currentPage": "index.html",
     "theme": {
       "name": "organicamp",
@@ -35,6 +35,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 11,
     "versionPublish": "4.8.1"
   },
