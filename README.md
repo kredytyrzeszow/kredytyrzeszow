@@ -1,0 +1,2 @@
+# kredytyrzeszow
+GitHub Pages
